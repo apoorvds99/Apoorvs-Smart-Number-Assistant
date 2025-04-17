@@ -1,6 +1,6 @@
  Apoorv's Smart Number Assistant.
 
-A beginner-friendly Python console program that acts as a smart assistant to perform various number-based checks and calculations.
+A Python console program that acts as a smart assistant to perform various number-based checks and calculations.
 
 ---
 
